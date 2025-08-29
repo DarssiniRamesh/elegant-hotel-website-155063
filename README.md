@@ -1,1 +1,3 @@
-# elegant-hotel-website-155063
+# Project Repository
+
+This is the initial README file for the project.
